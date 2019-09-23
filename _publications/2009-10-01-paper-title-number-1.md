@@ -3,7 +3,7 @@ title: "A Microwatt-Class Always-On Sensor Fusion Engine Featuring Ultra-Low-Pow
 collection: publications
 permalink: 
 excerpt: 'This paper presents a microwatt-class sensor fusion engine with a '
-date: 
+date: 2019/02
 venue: 2019 symposium on vlsi circuits
 paperurl: 
 citation: 
